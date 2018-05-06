@@ -1,0 +1,1 @@
+CREATE SCHEMA nityfactorydb DEFAULT CHARACTER SET utf8 ;
